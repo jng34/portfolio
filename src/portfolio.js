@@ -32,7 +32,7 @@ const projects = [
       'React Native', 'Node', 'Express', 'MongoDB', 'GraphQL', 'Mapbox'
     ],
     sourceCode: 'https://github.com/jng34/loCodeLy',
-    livePreview: 'https://vimeo.com/941451757?share=copy',
+    livePreview: 'https://vimeo.com/956049268?share=copy',
   },
   {
     name: 'Math is a Joke',
