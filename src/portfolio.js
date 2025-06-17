@@ -13,7 +13,7 @@ const about = {
     '🧠 Problem solver passionate about implementing creative solutions to solve real world issues.',
     '📚 Educator for over a decade, yearning to give back and empower others.',
   ],
-  resume: 'https://docs.google.com/document/d/1KHa5zH_FXcrF3tIHWAbpn3EIk-3tC40vJs1WCwZRAsk/edit?usp=sharing',
+  resume: 'https://docs.google.com/document/d/1qGW014aMq0cKAgYrTa0cfTwoClzE09oNhGmFVop_AYs/edit?tab=t.0',
   social: {
     linkedin: 'http://www.linkedin.com/in/jamesng15/',
     github: 'https://github.com/jng34',
